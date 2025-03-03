@@ -298,6 +298,8 @@ input[name='city']:focus {
 	font-weight: 700;
 	text-align: center;
 	background-color: transparent;
+	font-family: inherit;
+	font-size: inherit;
 }
 
 .button:hover {
